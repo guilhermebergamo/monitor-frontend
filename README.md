@@ -108,8 +108,8 @@ Para cada Static Web App criado:
 2. Clique em **"Configuration"** → **"Application settings"**
 3. Adicione a variável:
    - **Name**: `VITE_API_URL`
-   - **Value DEV**: `https://sua-api-dev.azurecontainerapps.io`
-   - **Value PROD**: `https://sua-api-prod.azurecontainerapps.io`
+   - **Value DEV**: `https://monitor-api-dev.livelyisland-44050ad2.centralus.azurecontainerapps.io`
+   - **Value PROD**: `https://monitor-api-dev.livelyisland-44050ad2.centralus.azurecontainerapps.io`
 4. Clique em **"Save"**
 
 ### Workflow de Deploy
